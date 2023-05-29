@@ -1,5 +1,5 @@
 # bsclass
-Black Shoels option pricing model class, including implied volatility calculation
+Black-Schoels option pricing model class, including implied volatility calculation
 
 used it on Applied Derivatives course at NES
 special thanks to https://github.com/grinisrit/noa/tree/master/docs/quant
